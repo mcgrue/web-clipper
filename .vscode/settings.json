@@ -17,5 +17,10 @@
   "typescript.tsdk": "node_modules/typescript/lib",
   "editor.codeActionsOnSave": {
     "source.fixAll.eslint": true
-  }
+  },
+	"workbench.colorCustomizations": {
+		"activityBar.background": "#6a7d0b",
+		"titleBar.activeBackground": "#1ed760",
+		"titleBar.activeForeground": "#F9FBF6"
+	},
 }
